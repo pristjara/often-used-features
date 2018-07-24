@@ -1,3 +1,4 @@
+using Microsoft.Win32;
 using Excel = Microsoft.Office.Interop.Excel;
 
 private static void ReleaseMemory(object obj) // function that closes excel and clears memory
