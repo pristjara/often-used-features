@@ -1,3 +1,6 @@
+using System.Windows.Threading;
+using System.IO;
+
 // log text to text file and show it in the UI
 
  private void Log(string log_text)
